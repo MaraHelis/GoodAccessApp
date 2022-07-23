@@ -1,5 +1,6 @@
 # GoodAccessApp
-V tomto repositáři se nachází ukázkové videa bakalářské práce
+V tomto repositáři se nachází ukázkové videa bakalářské práce.
+
 Seznam je napsán tak, jak tomu jsou testovací scénáře v bakalářské práci.
 
 **Přihlášení do aplikace. Zahrnuje verifikaci týmy, přihlášení pomocí SSO a pomocí Credentials:**
