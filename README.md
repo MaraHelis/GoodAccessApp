@@ -30,3 +30,6 @@ Seznam je napsán tak, jak tomu jsou testovací scénáře v bakalářské prác
 **Dodatečné funkce aplikace. Zahrnuje pouze výpad internetu:**
 
 >thesis - vypadek internetu.mp4
+
+**Dobrovzdání od firmy o funkčnosti aplikace**
+>dobrovzdani.pdf
