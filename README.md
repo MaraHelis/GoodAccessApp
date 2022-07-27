@@ -31,5 +31,5 @@ Seznam je napsán tak, jak tomu jsou testovací scénáře v bakalářské prác
 
 >thesis - vypadek internetu.mp4
 
-**Dobrovzdání od firmy o funkčnosti aplikace**
->dobrovzdani.pdf
+**Dobrozdání od firmy o funkčnosti aplikace**
+>dobrozdani.pdf
